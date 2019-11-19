@@ -1,0 +1,11 @@
+将文件添加到环境变量目录：
+1. 编写 demo.py
+   第一行加上  #!/usr/bin/env python3
+
+2. 修改执行权限
+   chmod  777  demo.py
+
+3. 将该文件移动到/bin
+   sudo  mv  demo.py  /bin
+
+
