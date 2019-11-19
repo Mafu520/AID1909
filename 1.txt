@@ -7,5 +7,5 @@
 
 3. 将该文件移动到/bin
    sudo  mv  demo.py  /bin
-
+122543453
 
